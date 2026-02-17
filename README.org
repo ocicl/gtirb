@@ -4,6 +4,6 @@ GrammaTech Intermediate Representation for Binaries.
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/grammatech/gtirb.git |
-| commit  | 7d8d02e                                     |
+| commit  | ceab3ba0                                    |
 | systems | gtirb                                       |
 |---------+---------------------------------------------|
